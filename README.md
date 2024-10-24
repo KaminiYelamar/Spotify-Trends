@@ -5,8 +5,11 @@
 **Key Features:**
 
 _Data Analysis:_ Using GCP BigQuery to run SQL-based queries on the Spotify dataset, enabling efficient data exploration and discovery of meaningful trends in music streaming.
+
 _Big Data Technology:_This project harnesses the power of Big Data tools to process and analyze large datasets quickly and efficiently, making it ideal for handling Spotify’s extensive music catalog.
+
 _Cloud Deployment:_ The entire data pipeline and analysis workflows are deployed on GCP to ensure scalability, reliability, and ease of access for further analysis.
+
 _Visualization:_ Interactive and insightful data visualizations are created using Google Looker Studio to present key findings. These visuals help uncover trends such as top songs, trending artists, genre distributions, and more.
 
 **Project Goals:**

@@ -18,8 +18,13 @@ _Visualization:_ Interactive and insightful data visualizations are created usin
 **Technologies Used:**
 
 Google Cloud Platform (GCP)
+
 BigQuery: For querying and analyzing large datasets.
+
 Cloud Storage: For storing and managing the raw dataset.
+
 Cloud Functions: To automate data processing and query execution.
+
 Google Looker Studio: To design and create interactive dashboards and visualizations.
+
 Python: For data manipulation, analysis, and integrating with GCP.

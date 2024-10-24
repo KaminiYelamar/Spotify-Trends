@@ -6,7 +6,7 @@
 
 _Data Analysis:_ Using GCP BigQuery to run SQL-based queries on the Spotify dataset, enabling efficient data exploration and discovery of meaningful trends in music streaming.
 
-_Big Data Technology:_This project harnesses the power of Big Data tools to process and analyze large datasets quickly and efficiently, making it ideal for handling Spotify’s extensive music catalog.
+_Big Data Technology:_ This project harnesses the power of Big Data tools to process and analyze large datasets quickly and efficiently, making it ideal for handling Spotify’s extensive music catalog.
 
 _Cloud Deployment:_ The entire data pipeline and analysis workflows are deployed on GCP to ensure scalability, reliability, and ease of access for further analysis.
 
